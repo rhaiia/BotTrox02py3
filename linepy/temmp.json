@@ -1,0 +1,241 @@
+{
+    "RAfoto": false,
+    "Sider": true,
+    "addImage": {
+        "name": "",
+        "status": false
+    },
+    "addSticker": {
+        "name": "",
+        "status": false
+    },
+    "autoAdd": true,
+    "autoJoin": true,
+    "autoJoinTicket": ttue,
+    "autoRead": true,
+    "blacklist": {
+        "u7bd1680451ebea8000d7dfe29be73205": true
+    },
+    "changeGroupPicture": [],
+    "changePicture": false,
+    "changePicture1": false,
+    "spam": {},
+    "lang": "JP",
+    "checkContact": false,
+    "checkPost": false,
+    "detectMention": true,
+    "keyCommand": "/",
+    "myProfile": {
+        "coverId": "cf932935d6151cfbcd515ccc65dab29c",
+        "displayName": "Dewii",
+        "pictureStatus": "0hPisid2SED0ZOECIQBlJwEXJVASs5PgkONiFJdGoZUXA0JhgRcyRII2tAUiQzckEXdCETI2kQBSRn",
+        "statusMessage": "andrii"
+    },
+    "reread": true,
+    "restartPoint": "uc9cf626eb815a70d59c8e71f9fda4872",
+    "setKey": false,
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "userMentioned": {
+        "c011d2a0662514992295dd31e212cb188": {
+            "uc4153590ad208dc69dd988b0c6d6cab2": 1
+        },
+        "c152d69b1add5be49e4d6552511006752": {
+            "ub5ea89fdc7c31ad9ecd5f6c6b054547f": 6
+        },
+        "c2212e4532431fbdd3045805279e710b9": {
+            "u03c9012f243d79d1be374d1795cdbd92": 1,
+            "u062adbbf3647af8f63bab7fbb3b30cd4": 11,
+            "u145a8d7adab293b6a3d06f2cfcf95978": 6,
+            "u494bb3f2c58bdbb0f8d2a9607665d6ae": 2,
+            "u869027eafa3c7868ac1746a6b3516fbb": 4,
+            "u8d1e27c5895a3a238028b2b0589eb410": 7,
+            "u8f5a63bfd3c1829d2e770b6e561c44ca": 2,
+            "uc072594147c6a5e398181e0b61eedc9e": 1,
+            "udbbad0bb329ba6a14687ee9f28669d7e": 21,
+            "uee92df2c69c629d5e3d8db116c1b571a": 1
+        },
+        "c225f2463ca9b7b2b2091e288d8b695f6": {
+            "u062adbbf3647af8f63bab7fbb3b30cd4": 1
+        },
+        "c22dd28eddafbde5a05642123c476ce29": {
+            "uf69da2abfd8b55b6c4d96b72004aebcb": 1
+        },
+        "c23d6e97206277a62994f8996a5d5d31a": {
+            "u145a8d7adab293b6a3d06f2cfcf95978": 1,
+            "u23e48f82d263fc81b1abc1510533a405": 4,
+            "u869027eafa3c7868ac1746a6b3516fbb": 4,
+            "u900f4edeba35f98513a95cb5ae665c40": 2,
+            "ua7c19969f57a98fecc6fb29120e346ae": 1
+        },
+        "c281885ce3cd62db295ec5c26441fe5af": {
+            "uf114dc7603af3955e77ba161b49407c6": 1
+        },
+        "c348d1fceddc51af316c229c45fe72238": {
+            "u342c5313bfab93512a515d667fdc60ee": 1
+        },
+        "c3d1d21f3f49ae84a777149561bbb9f08": {
+            "udbbad0bb329ba6a14687ee9f28669d7e": 4
+        },
+        "c3d3579f97505fd95a7b2e64ad2447539": {
+            "ub4974c6489c969402713a974b568ee9e": 1
+        },
+        "c46cd7d9af33737f71ba8f77b0f235b24": {
+            "u44bc6bce4ef93bf2cba567ab7e824b5a": 1,
+            "uf3596e61c61a8809c8454fb57bf55c82": 1
+        },
+        "c47ead895b30cde4bbc57a2c613978200": {
+            "u10fbb3b639c2bf1ac152dfebdd86c17f": 2,
+            "u12e28fe88c661eb989eb0585505fb73e": 1,
+            "u302de779f95d97a33c4c0c90013b2f6a": 1,
+            "u4bb20b6e21124a85afc701873bb07eee": 2,
+            "u55e24ce9bd53fda291fd77da70505daa": 1,
+            "u97e80d83dc62a90f873866dd7941f5b3": 5,
+            "u9eafa615a563135995e65808c7a9553b": 6,
+            "ub7ed2f3767bdc542fc5a324969c98f88": 1,
+            "uc9cf626eb815a70d59c8e71f9fda4872": 4,
+            "udbbad0bb329ba6a14687ee9f28669d7e": 3,
+            "ue10de0a302f521d008e7b4efa9abd842": 2
+        },
+        "c512e292fca4c683b833e51718147a58b": {
+            "ue0164a8cf67743a861423dde6214c12f": 1
+        },
+        "c562e5b906272c19b9919d695932fb63d": {},
+        "c5873325549d90afd25d838d2bf0bceea": {
+            "u8d07a74599944ddcae4b60906d3576a4": 1,
+            "ua76103ed9f019cc65a3feb8d5be631b9": 2,
+            "ub4974c6489c969402713a974b568ee9e": 1,
+            "ub634e78c9469f53202517ade1889f930": 3
+        },
+        "c59196deeef98232f9a8ee94e4ef0dd51": {
+            "ua689e9fb937f0cd71a0df8b4c87e8dea": 1,
+            "ue0164a8cf67743a861423dde6214c12f": 1
+        },
+        "c62918fe323ffb8ecbf3f980eb5659490": {
+            "u2b263bb71282a739eaf71a124e6de4db": 1,
+            "ud1e370ae03d3591ef0588aa566b7dafe": 1
+        },
+        "c6f11d34aebdc72baf6ed09ddbe2335fd": {
+            "u1fb79b09f1a422c53f5c4bf5293bdb02": 3,
+            "u4bdd937c1b32a2d9c0809c888d1e5292": 2,
+            "u8996c744f260a1bb693578eb00ab52c4": 1,
+            "uaca55463c423c3632012598148691da7": 1,
+            "uc8487830df0446e693d46f5642e25b7a": 1
+        },
+        "c7774944bd2fa58ff639ccae398412ad6": {
+            "u42cb0323442825283290ad1a986e2299": 1
+        },
+        "c8d106aeedf4dbf8cf1b16dd44d5c4fa3": {
+            "u6e751ee03d26a9128db99ee61378061c": 2
+        },
+        "c914026d6baffaed7222c9e8b3061ece0": {
+            "u04c7c7fabc3692a7bbcd487d8afecc89": 1,
+            "u6347d96f19332503ee90b48d630ec27e": 5,
+            "ucd760948db27afb2d624c1a7275cec37": 4
+        },
+        "c97a4784fe90a4ae93ac27d1dae50ea25": {
+            "u062adbbf3647af8f63bab7fbb3b30cd4": 6,
+            "udbbad0bb329ba6a14687ee9f28669d7e": 1
+        },
+        "c9f02513c6f8cde4ca6eb70a2278cad3d": {
+            "u5244a679b336add3f5c48a0f64aa69f6": 7,
+            "u7434d9f08fc89be81db3e1275a4126c4": 3,
+            "ub7139bb8d4ab113941bd362c58236a02": 1,
+            "udbbad0bb329ba6a14687ee9f28669d7e": 1
+        },
+        "cbf07d869f0c851d1503fe22ccfdf3636": {
+            "uc6854033aa6662f0601bcbc2dfc7cc74": 1
+        },
+        "cbfa60aa20e75a08c6ee14fa2f5795d0b": {
+            "uca2f52280608683be7a9f1778d6e0aac": 1
+        },
+        "cbfb78647590dd15b9512af588ba6bd4e": {
+            "u39addda8bb71d3f91d186671cfd0ec14": 1
+        },
+        "cc20f18eda2a8ef816f7de595fa46f540": {
+            "ued21891fe7a84536b59276e0388b9e97": 1
+        },
+        "cc3b7ada6a107420016aec2dea2f6f75c": {
+            "uadfd85841b5f18645653d4cfaf375bc0": 1
+        },
+        "ccc2c63b3e4b123803b58b5149cf734fd": {
+            "u15da775f99668a36b1818d0a7644f9ff": 1,
+            "u22ee8f38530933602b66332115f6bf8f": 1,
+            "ue5ea6e17a4b25d454deab62dd253e3e9": 1
+        },
+        "cd9a01c28915e7b27161a8c9bbdfcff04": {
+            "u6347d96f19332503ee90b48d630ec27e": 1,
+            "u91e4ab6d97ed91023d14687d39f0727d": 12,
+            "ubff5d3ed388259df29b76623fbbed7fd": 1,
+            "uca2f52280608683be7a9f1778d6e0aac": 1,
+            "uf77fa853b9c34aca86c52e7915f8111b": 1
+        },
+        "cdc7cb242691c5bc85eca5b766dfe9ac7": {
+            "u330afd7e5669da4e54d49430bba3321f": 1,
+            "u8971e29cb1ca4f92b829795556067abd": 1,
+            "u98c2721a68b02d715c74567d540111bf": 61,
+            "uc459640373683e029d806bdb1ce7ea7d": 40,
+            "ud5facb0bb87720939cf54adc6f99d6ec": 1,
+            "ud6d9404c1d11f271bd3d9b75ee2a8009": 1
+        },
+        "cdd1a1d5560b744311b7b0e934dd304d3": {
+            "u220ad509dced7a384e9581208b460463": 8,
+            "u2b002b6d9738337dfa382dcd0bd23be3": 2
+        },
+        "ce0d9eeb243ccc517d198e3bc5c026d0d": {
+            "u0f4cbccff2b03754d07d8db8707023f6": 1,
+            "u108000b190b98dd49a1c501a64256b02": 1,
+            "u15ae0a3b6236ecd9fe63efaa4996c097": 1,
+            "u15da775f99668a36b1818d0a7644f9ff": 2,
+            "u6695e01db71c52b4ff82e554b147f4b1": 1,
+            "u77743326f45692990707c5c8df378b56": 2,
+            "u8ab2c608abb32e945272e8d2ec3b33a6": 1,
+            "uc0618bdd917a0903d214edbe94141400": 3,
+            "ud054fb0f34d65724ed5391edb6114210": 1
+        },
+        "ce702d177c79eb7ef5f63aa0dc8c5db9a": {
+            "u544f8ce212c5fea403f2e9b480ef79b1": 1,
+            "ueb0dfc06243432ff1733ac537956fbee": 1
+        },
+        "ce82208b62967e5cac9c9197dda44d460": {
+            "ue31c9c737087e72eae97b1979210d11e": 1
+        },
+        "ceb8c96ce3851979a0ff6392d27c8b73f": {},
+        "cec0e3507e55b1f75c73c710b62240b98": {
+            "udbbad0bb329ba6a14687ee9f28669d7e": 1
+        },
+        "cf228a9b981be72b0d35da34daf57023d": {
+            "u0a31e66fe7678388debfc636ea582bb4": 3,
+            "u0eeadd21e2db79cffe1d06d0fd14de3d": 1,
+            "u52cbc131a1744bd72a14f4d04ee325d1": 1,
+            "u69106669be651c501cdd42f179710fd1": 1,
+            "udd988ca0e76f9d60c4d133f3e3e86c46": 1,
+            "uf78694d3e7738d24460cfbe29ed666df": 1
+        },
+        "cfd5c68af9d6125852d8f3ee7cf81adc3": {
+            "u3f6f32469a1e3ed16f2aaa9333bac479": 1,
+            "u4bdd937c1b32a2d9c0809c888d1e5292": 2,
+            "u77743326f45692990707c5c8df378b56": 1
+        }
+    }
+}
