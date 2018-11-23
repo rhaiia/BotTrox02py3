@@ -24,7 +24,7 @@ print ("================================")
 print ("====WELCOME TO BOTTROX BOT====")
 print ("Memuat Akun BOT 1")
 k1 = LINE() #Login Via QR
-k1 = LINE("SIMPAN TOKEN KAMU DI SINI")
+#k1 = LINE("SIMPAN TOKEN KAMU DI SINI")
 k1.log("\nToken BOT1=> " + str(k1.authToken))
 print ("Sukses Login Akun BOT")
 #===========
